@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Patrick Hand', cursive;
+}
+
+header {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.submit {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.displayedImages {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  width: 300px;
+  border: #202020 5px solid;
+}
+
+.hidden {
+  display: none;
+}
