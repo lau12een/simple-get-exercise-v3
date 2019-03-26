@@ -11,6 +11,10 @@ header {
   margin-right: auto;
 }
 
+.form-control {
+ width: 700px;
+    display: flex;
+}
 
 .submit {
   width: 300px;
@@ -26,7 +30,7 @@ header {
   margin-top: 15px;
   margin-bottom: 15px;
   width: 300px;
-  border: #202020 5px solid;
+  border: yellow 10px solid;
 }
 
 .hidden {
